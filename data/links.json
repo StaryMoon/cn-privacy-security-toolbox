@@ -46,6 +46,31 @@
       "age",
       "https://github.com/FiloSottile/age",
       "简单现代的文件加密工具。"
+    ],
+    [
+      "2FAS",
+      "https://2fas.com/",
+      "双因素认证 App。"
+    ],
+    [
+      "Ente Auth",
+      "https://ente.io/auth/",
+      "开源 2FA 认证器。"
+    ],
+    [
+      "SimpleLogin",
+      "https://simplelogin.io/",
+      "邮箱别名和隐私转发。"
+    ],
+    [
+      "Cryptomator",
+      "https://cryptomator.org/",
+      "云盘文件加密。"
+    ],
+    [
+      "Mullvad",
+      "https://mullvad.net/",
+      "隐私导向 VPN 服务。"
     ]
   ],
   "quick_start": [
